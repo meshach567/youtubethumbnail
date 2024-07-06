@@ -1,4 +1,5 @@
-import { Box } from "@mui/material";
+
+import Box from '@mui/material/Box';
 import Navbar from "./Navbar";
 import SearchFeed from "../components/SearchFeed";
 import ChannelDetails from "../components/ChannelDetails";

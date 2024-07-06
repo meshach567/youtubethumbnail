@@ -1,5 +1,7 @@
-import { Stack } from "@mui/material";
+
 import { Link } from "next/link";
+import Stack from '@mui/material/Stack';
+
 
 import { logo } from "../utils/constants";
 import SearchBar from "../components/SearchBar";
